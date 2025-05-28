@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wachuka
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning on hpw to make simple software
+- 👀 I’m interested in Data Science and Software Dev
+- 🌱 I’m currently a software Developer
 - 📫 my email  is wachukamercy2@gmail.com
 - 😄 Pronouns: she/her
 
